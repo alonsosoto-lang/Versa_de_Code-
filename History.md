@@ -1,6 +1,2 @@
-Cuerpo de la historia 
-Versionamiento de codigo
 
-Había una vez un señor, llamado el señor de los gallos, el cual amanecio un sabado con el fin de escoger al gallo mas prometedor de todos para lograr ganar las peleas, entonces se selecciono a un gallo grande y fuerte, para conseguir ganar todas las apuestas realizadas a su gran gallo.
-
-Toda la semana siguiente se dedico totalmente a entrenar dia y noche a este famoso gallo, pasados los 7 dias, llego el momento de la gran pelea contra un gallo llamado Javier. Entonces...
+Entonces... el gallo se empezo a sentir muy nervioso ya que veia a Javier muy grande y fuerte, pensaba que estaba mejor preparado que el, empezo la pelea y en efecto Javier estaba destrozando al gallo completamente en la pelea, parecia que seria su ultimo suspiro en esa pelea, es en ese entonces que voltea a ver a el señor de los gallos, se le nota la cara de decepcion por haber entrenado tanto a su gallo por 7 dias para que asi de rapido lo destrozaran, de la nada a el gallo le llega una motivacion impresionante y es ahi cuando conecta un golpe que derriba directo a Javier, no pudo ni reaccionar de lo fuerte que estuvo, la pelea termina en ese momento y el gallo y el señor de los gallos se van contentos, con dinero y satisfechos de regreso a casa  
